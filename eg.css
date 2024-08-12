@@ -1,0 +1,18 @@
+h1{
+    background-color: rgb(242, 160, 37);
+    font-size: large;
+}
+ul li{
+    background-color: blueviolet;
+    font-size: medium;
+}
+#para1{
+    background-color: brown;
+    initial-letter:blue;
+
+}
+h2{
+    font-size: x-large;
+    color: cadetblue;
+    
+}
